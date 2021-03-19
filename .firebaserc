@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "houseplant-encyclopedia": {
+      "hosting": {
+        "houseplant-encyclopedia": [
+          "houseplant-encyclopedia"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "houseplant-encyclopedia"
+  }
+}
